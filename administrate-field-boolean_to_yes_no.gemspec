@@ -3,7 +3,6 @@ lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 GEM_NAME = 'boolean_to_yes_no'
-GEM_NAME_CLASS = GEM_NAME.split('_').map(&:capitalize).join
 FULL_GEM_NAME = "administrate-field-#{GEM_NAME}"
 
 Gem::Specification.new do |gem|
