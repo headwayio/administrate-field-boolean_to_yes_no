@@ -1,0 +1,7 @@
+---
+ru:
+  administrate:
+    fields:
+      boolean_to_yes_no:
+        'false': да
+        'true': нет
