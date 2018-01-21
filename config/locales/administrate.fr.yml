@@ -1,0 +1,7 @@
+---
+fr:
+  administrate:
+    fields:
+      boolean_to_yes_no:
+        'false': Non
+        'true': Oui
