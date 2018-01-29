@@ -31,6 +31,6 @@ Customize or overwrite the labels by just adding this to your `config/locales/*.
 administrate:
   fields:
     boolean_to_yes_no:
-      'false': "No"
-      'true': "Yes"
+      'false': "🚫"
+      'true': "✅"
 ```
