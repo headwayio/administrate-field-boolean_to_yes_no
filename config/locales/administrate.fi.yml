@@ -1,0 +1,7 @@
+---
+fi:
+  administrate:
+    fields:
+      boolean_to_yes_no:
+        'false': Ei
+        'true': Joo
