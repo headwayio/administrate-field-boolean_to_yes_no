@@ -8,7 +8,7 @@ module Administrate
       end
 
       def to_s
-        I18n.t(data, scope: "administrate.fields.boolean_to_yes_no")
+        I18n.t(data.to_s, scope: "administrate.fields.boolean_to_yes_no")
       end
     end
   end
