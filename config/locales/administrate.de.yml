@@ -1,0 +1,7 @@
+---
+de:
+  administrate:
+    fields:
+      boolean_to_yes_no:
+        'false': Nein
+        'true': Ja

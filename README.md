@@ -23,3 +23,14 @@ ATTRIBUTE_TYPES = [
 ]
 ```
 
+## Customize
+
+Customize or overwrite the labels by just adding this to your `config/locales/*.yml`.
+
+```yml
+administrate:
+  fields:
+    boolean_to_yes_no:
+      'false': "🚫"
+      'true': "✅"
+```
