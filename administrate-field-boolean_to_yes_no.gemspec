@@ -26,6 +26,6 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'bundler', '~> 1.14'
   gem.add_development_dependency 'rake', '~> 10.0'
   gem.add_development_dependency 'rspec', '~> 3.0'
-  gem.add_dependency 'administrate', '~> 0.7'
+  gem.add_dependency 'administrate', '~> 0.12'
   gem.add_dependency 'rails', '~> 6.0'
 end
